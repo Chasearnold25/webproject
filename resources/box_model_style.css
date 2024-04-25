@@ -1,0 +1,53 @@
+/*
+  white: #FFFFFF
+  Accent 1 (Brown): #826227;
+  Accent 2 (Blue): #1224FF;
+*/
+
+
+body{
+  padding: 25px;
+  font-size: 1.3em;
+}
+
+h1,h2,h3{
+  color: #826227;
+}
+
+h1{
+  text-align: center;
+}
+
+th,td{
+  border: #1224FF solid 4px;
+  padding: 6px;
+}
+
+table{
+  border-collapse: collapse;
+}
+
+a{
+  color: #826227;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #1224FF;
+}
+p.box{
+  background-color: #826227;
+  color: #FFFFFF;
+  width: 400px;
+  padding: 5px 15px 5px 15px;
+  border: #1224FF double 5px;
+  margin: 30px;
+}
+div{
+  background-color: #826227;
+  width: 646px;
+  padding:20px;
+  border: #1224FF dashed 20px;
+  margin: 25px;
+}
